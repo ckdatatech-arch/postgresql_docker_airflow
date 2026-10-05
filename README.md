@@ -2,6 +2,8 @@
 
 A professional, modular Data Engineering ETL pipeline designed in Visual Studio Code. This project generates synthetic user data using **Faker**, cleans and transforms the dataset using **Pandas**, and loads the output into a **PostgreSQL** database running inside a **Docker** container. It finally uses Airflow for scheduling and orchestration
 
+You can watch the youtube video for this source code here - https://youtu.be/9qnkuRFJxWY
+
 
 ## How to run the project
 1. Install docker or docker desktop on your local machine
